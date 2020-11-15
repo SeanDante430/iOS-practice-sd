@@ -1,1 +1,1 @@
-# iOS-practice-sd
+# iOS-practice-std
